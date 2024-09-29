@@ -12,4 +12,7 @@ func test() {
 	fmt.Println("666")
 	fmt.Println("888")
 	fmt.Println("55555")
+	fmt.Println("8882")
+	fmt.Println("8882333")
+	fmt.Println("999")
 }
