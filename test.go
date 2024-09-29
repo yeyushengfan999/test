@@ -8,4 +8,5 @@ func test() {
 	fmt.Println("333")
 	fmt.Println("555")
 	fmt.Println("666")
+	fmt.Println("777")
 }
